@@ -1,4 +1,4 @@
-[![ci status][ci-image]][ci-url]
+ [![ci status][ci-image]][ci-url]
 [![license status][license-image]][license-url]
 
 [ci-image]: https://img.shields.io/github/actions/workflow/status/maevsi/maevsi/ci.yml
